@@ -1,0 +1,11 @@
+{
+  "name": "evaluacion-final-tec-web",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix sistema-eventos run dev",
+    "build": "npm --prefix sistema-eventos run build",
+    "lint": "npm --prefix sistema-eventos run lint",
+    "preview": "npm --prefix sistema-eventos run preview"
+  }
+}
